@@ -22,4 +22,4 @@ git commit -m “Inclusão de Comandos”
 git push origin main
 
 
-depois de atualizar o readme usar o comando git add . e depois commit 
+depois de atualizar o readme usar o comando git add . e depois commit e push
